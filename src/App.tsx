@@ -11,6 +11,7 @@ export default function App() {
       <Practice2 />
       <Practice3 />
       <Practice4 />
+      <Practice4 />
     </div>
   );
 }
